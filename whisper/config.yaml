@@ -3,7 +3,7 @@ version: 2.6.0
 slug: whisper
 name: Whisper
 description: Speech-to-text with Whisper
-url: https://github.com/cactrot/homeassistant_addons/tree/master/whisper
+url: https://github.com/cactrot/homeassistant_addons/blob/master/whisper
 arch:
   - amd64
   - aarch64
